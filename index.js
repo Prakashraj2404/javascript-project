@@ -24,9 +24,3 @@ function menu() {
         document.getElementById("navigation").style = "left:5px; transition:all .5s;"
     }
 }
-
-const homeBack = document.getElementById("home-background");
-
-// for (i=b; )
-
-setInterval(function() {homeBack.style = "background-image: url(./accests/round-chair.webp); background-position:250px 200px; background-repeat: no-repeat; transition: all 0.5s;"}, 3000);  
